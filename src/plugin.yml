@@ -1,0 +1,25 @@
+name: BungeeBan
+version: BETA-1.0
+author: ferrixx
+
+main: de.ferrixx.bungeeban.BungeeBan
+
+commands:
+  ban:
+    description: Ban's a Player from the Server
+    aliases: [b]
+  tempban:
+    description: Ban's a Player from the Server
+    aliases: [tb]
+  mute:
+    description: Mute a Player on the Server
+    aliases: [m]
+  tempmute:
+    description: Mute a Player on the Server
+    aliases: [tm]
+  unban:
+    description: Unban a Player from the Server
+  unmute:
+    description: Unmute a Player on the Server
+  kick:
+    description: Kick a Player from the Server
